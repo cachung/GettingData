@@ -1,0 +1,3 @@
+setwd("~/GIT/GettingData/quiz2")
+siyrce ("~/GIT/GettingData/quiz2/q01.R")
+source ("~/GIT/GettingData/quiz2/q01.R")
